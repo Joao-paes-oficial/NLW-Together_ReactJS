@@ -2,7 +2,7 @@
 
 ## App no Figma
 
-**[Clique aqui](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1)**
+**Quer ver no Figma? [clique aqui](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask/duplicate?node-id=0%3A1)**
 
 💻 Tecnologias
 ```
