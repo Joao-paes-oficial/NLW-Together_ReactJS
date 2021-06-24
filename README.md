@@ -8,6 +8,8 @@
 ```
 - React
 
+- TypeScript
+
 - HTML
 
 - SCSS
